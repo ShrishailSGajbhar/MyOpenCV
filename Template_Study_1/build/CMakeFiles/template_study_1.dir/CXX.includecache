@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ok/projects/Template_Study_1/main.cpp
+max1.hpp
+/home/ok/projects/Template_Study_1/max1.hpp
+iostream
+-
+string
+-
+
+/home/ok/projects/Template_Study_1/max1.hpp
+

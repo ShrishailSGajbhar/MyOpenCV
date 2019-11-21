@@ -1,0 +1,40 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x1a\x00H\x00e\x00l\x00l\x00o\x00K\x00D\x00e\x00v\x00e\x00l\x00o\x00p)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/ok/projects/HelloKDevelop/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=hellokdevelop
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x1a\x00H\x00e\x00l\x00l\x00o\x00K\x00D\x00e\x00v\x00e\x00l\x00o\x00p\x00\x00\x00\x1a\x00h\x00e\x00l\x00l\x00o\x00k\x00d\x00e\x00v\x00e\x00l\x00o\x00p)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/ok/projects/HelloKDevelop
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=HelloKDevelop,hellokdevelop
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=

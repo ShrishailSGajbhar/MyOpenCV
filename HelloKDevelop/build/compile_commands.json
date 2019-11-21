@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ok/projects/HelloKDevelop/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/hellokdevelop.dir/main.cpp.o -c /home/ok/projects/HelloKDevelop/main.cpp",
+  "file": "/home/ok/projects/HelloKDevelop/main.cpp"
+}
+]

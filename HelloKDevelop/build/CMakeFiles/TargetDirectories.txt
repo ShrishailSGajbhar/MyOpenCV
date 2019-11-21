@@ -1,0 +1,7 @@
+/home/ok/projects/HelloKDevelop/build/CMakeFiles/install/strip.dir
+/home/ok/projects/HelloKDevelop/build/CMakeFiles/edit_cache.dir
+/home/ok/projects/HelloKDevelop/build/CMakeFiles/hellokdevelop.dir
+/home/ok/projects/HelloKDevelop/build/CMakeFiles/rebuild_cache.dir
+/home/ok/projects/HelloKDevelop/build/CMakeFiles/list_install_components.dir
+/home/ok/projects/HelloKDevelop/build/CMakeFiles/install/local.dir
+/home/ok/projects/HelloKDevelop/build/CMakeFiles/install.dir
