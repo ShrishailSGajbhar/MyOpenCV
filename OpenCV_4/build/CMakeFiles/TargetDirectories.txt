@@ -1,0 +1,7 @@
+/home/ok/projects/OpenCV_4/build/CMakeFiles/edit_cache.dir
+/home/ok/projects/OpenCV_4/build/CMakeFiles/install/strip.dir
+/home/ok/projects/OpenCV_4/build/CMakeFiles/opencv_4.dir
+/home/ok/projects/OpenCV_4/build/CMakeFiles/list_install_components.dir
+/home/ok/projects/OpenCV_4/build/CMakeFiles/install/local.dir
+/home/ok/projects/OpenCV_4/build/CMakeFiles/rebuild_cache.dir
+/home/ok/projects/OpenCV_4/build/CMakeFiles/install.dir
